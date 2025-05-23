@@ -24,7 +24,7 @@ Python script leveraging Anymailfinder API for bulk HR email discovery from doma
 ## Installation
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/7azmi/hr_finder.git
 cd hr_finder # or project root
 pip install -r requirements.txt
 ```
